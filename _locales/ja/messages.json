@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "TST New Tab Root",
+    "description": "The name of the extension."
+  },
+  "appDescription": {
+    "message": "新しいタブを開く基準となるルートタブを設定可能にします",
+    "description": "The description of the extension."
+  },
+  "setRootMenu": {
+    "message": "新しいタブのルートに設定",
+    "description": "The menu message of setting root tab."
+  },
+  "removeRootMenu": {
+    "message": "新しいタブのルートから外す",
+    "description": "The menu message of removing root tab."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "TST New Tab Root",
+    "description": "The name of the extension."
+  },
+  "appDescription": {
+    "message": "Enable to set the root tab to open a new tab.",
+    "description": "The description of the extension."
+  },
+  "setRootMenu": {
+    "message": "Set as New Tab Root",
+    "description": "The menu message of setting root tab."
+  },
+  "removeRootMenu": {
+    "message": "Remove from New Tab Root",
+    "description": "The menu message of removing root tab."
+  }
+}
